@@ -1,0 +1,41 @@
+/* GENERAL STYLE */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* HEADER */
+
+.section-top {
+  height: 70px;
+  background: #e1f8ff;
+  border-bottom: 1px solid black;
+}
+
+.contenuto {
+  height: 300px;
+  width: 100%;
+}
+
+.col-right1 {
+  float: right;
+  margin-right: 23%;
+  clear: both;
+}
+
+.col-right2 {
+  float: right;
+  margin-right: 15%;
+  clear: both;
+}
+
+.col-left1 {
+  float: left;
+  margin-left: 10%;
+}
+
+.col-left2 {
+  float: left;
+  margin-right: 5px;
+}
