@@ -146,6 +146,7 @@ ul.list-inline li:last-child {
   color: #fe775a;
   border: 1px solid #fe775a;
   border-radius: 5px;
+  margin-left: 40px;
 }
 
 .botton-box {
@@ -291,7 +292,8 @@ ul.list-inline li:last-child {
 
 .full-box {
   width: 100%;
-  padding: 142px;
+  padding: 68px;
+  padding-top: 118px;
 }
 
 .white-box1 {
@@ -340,6 +342,7 @@ ul.list-inline li:last-child {
   max-height: 100px;
   margin-bottom: 22px;
   margin-top: -84px;
+  margin-left: 44px;
 }
 
 .info-text {
