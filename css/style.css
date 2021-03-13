@@ -676,3 +676,156 @@ ul.list-inline li:last-child {
 .cont-img img {
   width: 320px;
 }
+
+/* Footer */
+.cont-footer {
+  width: 100%;
+  height: 430px;
+  background: #32495b;
+}
+
+.cont-incr,
+.cont-connect,
+.cont-close,
+.cont-support {
+  float: left;
+  width: 240px;
+  height: 230px;
+  margin-top: 40px;
+  margin-left: 20%;
+}
+
+.cont-incr h4,
+.cont-connect h4,
+.cont-close h4,
+.cont-support h4 {
+  margin: 0;
+  margin-bottom: 24px;
+  color: #fff;
+}
+
+.cont-incr p,
+.cont-connect p,
+.cont-close p,
+.cont-support p {
+  margin-top: 8px;
+  color: #cbd6e2;
+}
+
+.cont-connect,
+.cont-close,
+.cont-support {
+  display: inline-block;
+}
+
+.cont-connect {
+  margin-left: 60px;
+}
+
+.cont-close {
+  margin-left: 54px;
+}
+
+.cont-support {
+  width: 240px;
+  height: 280px;
+}
+
+.cont-support {
+  margin-left: 52px;
+}
+
+.botton-small {
+  display: inline-block;
+  padding: 10px;
+  margin-top: 14px;
+  text-decoration: none;
+  line-height: 16px;
+  font-size: 14px;
+  border: 1px solid #f8f9f9;
+  border-radius: 5px;
+  color: #32495b;
+  background: #dadee0;
+}
+
+.cont-icons {
+  width: 240px;
+  height: 30px;
+  margin-top: 14px;
+}
+
+.cont-icons a {
+  margin-top: 6px;
+  color: #cbd6e2;
+}
+
+.cont-icons .fa-instagram,
+.cont-icons .fa-youtube,
+.cont-icons .fa-twitter,
+.cont-icons .fa-linkedin-in {
+  margin-left: 20px;
+}
+
+.cont-languages {
+  width: 100%;
+  height: 60px;
+  background: #32495b;
+}
+
+.languages {
+  width: 61%;
+  height: 45px;
+  margin-left: 20%;
+  border-bottom: 1px solid #cbd6e2;
+}  
+
+.languages a {
+  padding: 10px;
+  color: #cbd6e2;
+}
+
+.languages .english {
+  margin-left: 30%;
+}
+
+.cont-copyright {
+  width: 100%;
+  height: 120px;
+  background: #32495b;
+}
+
+.copyright {
+  float: left;
+  width: 31%;
+  height: 100px;
+  margin-top: 5px;
+  margin-left: 20%;
+}
+
+.copyright img {
+  width: 110px;
+  margin-top: 20px;
+}
+
+.copyright p {
+  color: #e7e9eb;
+}
+
+.legal {
+  float: right;
+  width: 30%;
+  height: 100px;
+  margin-top: 2px;
+  margin-right: 19%;
+}
+
+.legal a {
+  display: inline-block;
+  margin-top: 20px;
+  padding-left: 20px;
+  color: #cbd6e2;
+}
+
+.legal .stuff {
+  margin-left: 61%;
+}
